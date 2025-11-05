@@ -52,3 +52,14 @@ let b = 344
  let Q = 9
   Q ^= 2
  console.log(Q)
+
+
+
+// comparison operator
+
+
+let Age = 20 < 30
+console.log(Age)
+
+let r3 = 20 == 30
+console.log(r3)

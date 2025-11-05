@@ -1,1 +1,1 @@
-![Screenshot](./img/unnamed%20(2).jpg)
+![Screenshot](./img/unnamed.jpg)
